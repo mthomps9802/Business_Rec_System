@@ -1,0 +1,5 @@
+#Ignore the yelp datasets
+yelp_datasets/*
+
+#Don't ignore the folder that should hold them for other users
+!yelp_datasets/.gitkeep
